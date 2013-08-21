@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1377050052 source:/home/ej/movie-extractor/main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<string>
+	<vector>
+
